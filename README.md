@@ -1,5 +1,9 @@
 # Brand Sales Analysis Dashboard
 
+## Project Link
+
+https://app.powerbi.com/Redirect?action=OpenApp&appId=60a73c94-8760-4d90-ab59-29ea0c2de0c2&ctid=98f2531c-ef28-4c7d-a0bb-68624c1fdcc0&experience=power-bi
+
 ## 📌 Project Overview
 
 The **Brand Sales Analysis Dashboard** is an interactive Power BI dashboard designed to analyze brand performance across multiple business metrics. It provides insights into sales, profit, discount percentages, and product variety, helping users identify top-performing and underperforming brands.
